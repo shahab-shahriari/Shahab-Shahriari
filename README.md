@@ -1,6 +1,6 @@
 # Hi, I'm Shahab Shahriari
 
-**Technical Lead | Web GIS & Full-Stack**, based in Mashhad, Iran, open to relocation.
+**Web GIS & Full-Stack**.
 
 I'm a civil engineer who moved into software through Web GIS. For nine years I've built municipal GIS systems, mainly with PHP, JavaScript and PostgreSQL/PostGIS, and more recently Python-based computer vision. I develop and support a fire station management platform used in more than 10 cities, and I currently lead a team of five adding camera-based vehicle detection to it.
 
